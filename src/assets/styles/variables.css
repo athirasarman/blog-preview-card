@@ -1,0 +1,19 @@
+
+:root{
+/* Primary Colors*/
+
+--yellow: hsl(47, 88%, 63%);
+
+/* Neutral Colors*/
+
+--white: hsl(0, 0%, 100%);
+--grey: hsl(0, 0%, 50%);
+--black: hsl(0, 0%, 7%);
+
+/* Typography */
+
+--font-size-paragraph: 16px;
+
+/* Font */
+--font-family:'Figtree';
+}
